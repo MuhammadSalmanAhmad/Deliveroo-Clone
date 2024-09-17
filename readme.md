@@ -6,4 +6,4 @@ KUDOS TO SONNY SANGHA for this tutorial [SONNY SANGHA REACT NATIVE TUTORIAL](htt
 
 
 ![Home Screen](<Screenshot 2024-09-16 133930.png>)
-![Restaurant Screen](<c:\Users\umar_\Pictures\Screenshots\Screenshot 2024-09-16 134231.png c:\Users\umar_\Pictures\Screenshots\Screenshot 2024-09-16 134211.png >)
+![Restaurant Screen](<Screenshot 2024-09-16 134211.png >)
