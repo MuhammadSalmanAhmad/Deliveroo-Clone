@@ -4,3 +4,4 @@ Developed a deliveroo clone using react native ,packages like react-native-anima
 
 KUDOS TO SONNY SANGHA for this tutorial [SONNY SANGHA REACT NATIVE TUTORIAL](https://youtu.be/AkEnidfZnCU?si=WtxdvmomTc0uz9d_)
 
+![home screen](c:\Users\umar_\Pictures\Screenshots\Screenshot 2024-09-16 133930.png)
