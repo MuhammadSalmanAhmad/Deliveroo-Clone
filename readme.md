@@ -6,3 +6,5 @@ KUDOS TO SONNY SANGHA for this tutorial [SONNY SANGHA REACT NATIVE TUTORIAL](htt
 
 ![Home Screen](<Screenshot 2024-09-16 133930.png>)
 ![Restaurant Screen](<Screenshot 2024-09-16 134231.png>)
+![Basket Screen](image.png)
+![preperation screen](image-1.png)
